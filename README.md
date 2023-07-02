@@ -26,7 +26,7 @@
 ---
 ### 💻 Технологии:
   <a href="https://github.com/ronin-in-fire/Terminal">
-    <img src="https://github.com/ronin-in-fire/ronin-in-fire/resources/terminal.svg.svg" title="Terminal" alt="Terminal" width="50" height="50"/>
+    <img src="https://github.com/ronin-in-fire/ronin-in-fire/blob/master/resources/terminal.svg.svg" title="Terminal" alt="Terminal" width="50" height="50"/>
   </a>
 
 ---
