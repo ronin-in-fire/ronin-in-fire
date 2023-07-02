@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/Telegram-008000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
    <a href="mailto:ronin.in.fire@gmail.com">
-    <img src="https://img.shields.io/badge/eMail-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/eMail-008000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
   <a href="https://drive.google.com/file/d/1pebQUF0TcbHwGNMjccMX2LBmmOJCDxZw/view">
-    <img src="https://img.shields.io/badge/CV-green?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
+    <img src="https://img.shields.io/badge/CV-008000?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
   </a>
 </div>
