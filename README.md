@@ -9,20 +9,18 @@
  <img width="600" src="resources/snake.svg" alt="snake"/>
 </p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rustam-aflyatunov/">
-    <img src="https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://t.me/Rustam_0208">
-    <img src="https://img.shields.io/badge/Telegram-008000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
-  </a>
-   <a href="mailto:ronin.in.fire@gmail.com">
-    <img src="https://img.shields.io/badge/eMail-008000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
-  </a>
-  <a href="https://drive.google.com/file/d/1pebQUF0TcbHwGNMjccMX2LBmmOJCDxZw/view">
-    <img src="https://img.shields.io/badge/CV-008000?style=for-the-badge&logo=CV&logoColor=white" alt="CV Badge"/>
-  </a>
-</div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/rustam-aflyatunov/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/Rustam_0208" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/bcaa1996" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+
+  </div>
 
 
 
