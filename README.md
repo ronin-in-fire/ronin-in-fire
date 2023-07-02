@@ -5,10 +5,10 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rustam-aflyatunov/">
-    <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-008000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://t.me/Rustam_0208">
-    <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+    <img src="https://img.shields.io/badge/Telegram-008000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
    <a href="mailto:ronin.in.fire@gmail.com">
     <img src="https://img.shields.io/badge/eMail-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
