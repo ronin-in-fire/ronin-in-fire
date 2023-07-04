@@ -28,10 +28,9 @@
   <a href="https://github.com/ronin-in-fire/Terminal">
     <img src="https://github.com/ronin-in-fire/ronin-in-fire/blob/main/resources/terminal.svg" title="Terminal" alt="Terminal" width="50" height="50"/>
   </a>
- <!--<a href="https://github.com/ronin-in-fire/Git">
-    <img src="https://github.com/ronin-in-fire/ronin-in-fire/blob/main/resources/terminal.svg" title="Terminal" alt="Terminal" width="50" height="50"/>
+ <a href="https://github.com/ronin-in-fire/Git">
+    <img src="https://github.com/ronin-in-fire/ronin-in-fire/blob/main/resources/git.svg.svg" title="Git" alt="Git" width="50" height="50"/>
   </a>
-  -->
 ---
 
 ### 🤝 Социальные сети:
