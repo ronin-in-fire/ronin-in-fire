@@ -11,7 +11,7 @@
 
 Я начинающий QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с курса Вадима Ксендзова (Курс тестирования ПО Вадима Ксендзова https://ksendzov.com/), где я, на данный момент, веду активную работу над получением сертификатов:
 
-:x: Terminal Linux;
+:white_check_mark: Terminal Linux;
 
 :x: SQL;
 
