@@ -11,7 +11,7 @@
 
 Я начинающий QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с курса Вадима Ксендзова (Курс тестирования ПО Вадима Ксендзова https://ksendzov.com/), где я, на данный момент, веду активную работу над получением сертификатов:
 
-:white_check_mark:  <a id="title1">Terminal Linux;</a>
+:white_check_mark:  [Terminal Linux;](https://github.com/ronin-in-fire/ronin-in-fire/blob/main/resources/Rustam%20Aflyatunov_Terminal.png)
 
 :x: SQL;
 
