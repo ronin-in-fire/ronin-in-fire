@@ -11,7 +11,7 @@
 
 Я начинающий QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с курса Вадима Ксендзова (Курс тестирования ПО Вадима Ксендзова https://ksendzov.com/), где я, на данный момент, веду активную работу над получением сертификатов:
 
-:x: Terminal Linux;
+:white_check_mark: Terminal Linux;
 
 :x: SQL;
 
@@ -26,9 +26,12 @@
 ---
 ### 💻 Технологии:
   <a href="https://github.com/ronin-in-fire/Terminal">
-    <img src="https://github.com/ronin-in-fire/ronin-in-fire/blob/master/resources/terminal.svg.svg" title="Terminal" alt="Terminal" width="50" height="50"/>
+    <img src="https://github.com/ronin-in-fire/ronin-in-fire/blob/main/resources/terminal.svg" title="Terminal" alt="Terminal" width="50" height="50"/>
   </a>
-
+ <a href="https://github.com/ronin-in-fire/Git">
+    <img src="https://github.com/ronin-in-fire/ronin-in-fire/blob/main/resources/git.svg.svg" title="Git" alt="Git" width="50" height="50"/>
+  </a>
+  
 ---
 
 ### 🤝 Социальные сети:
