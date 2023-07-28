@@ -15,7 +15,7 @@
 
 :x: SQL;
 
-:x: Git;
+:white_check_mark: [Git;](https://github.com/ronin-in-fire/ronin-in-fire/blob/main/resources/Rustam%20Aflyatunov_GIT.png)
 
 :x: Postman;
 
